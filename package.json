@@ -1,0 +1,17 @@
+{
+  "name": "dish-form-lit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/paper-button": "github:PolymerElements/paper-button",
+    "@polymer/paper-card": "github:PolymerElements/paper-card",
+    "@polymer/paper-input": "github:PolymerElements/paper-input",
+    "lit-element": "github:Polymer/lit-element"
+  }
+}
